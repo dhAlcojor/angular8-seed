@@ -1,6 +1,8 @@
-# Angular8Seed
+# Angular8 Seed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
+
+Includes routing and SASS .scss files.
 
 ## Development server
 
